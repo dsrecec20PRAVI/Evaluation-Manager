@@ -1,0 +1,17 @@
+C:\Users\foi.LABOS\Documents\Domagoj Srečec\Chapter 3_5\bin\Debug\Evaluation Manager.exe.config
+C:\Users\foi.LABOS\Documents\Domagoj Srečec\Chapter 3_5\bin\Debug\Evaluation Manager.exe
+C:\Users\foi.LABOS\Documents\Domagoj Srečec\Chapter 3_5\bin\Debug\Evaluation Manager.pdb
+C:\Users\foi.LABOS\Documents\Domagoj Srečec\Chapter 3_5\bin\Debug\DBLayer.dll
+C:\Users\foi.LABOS\Documents\Domagoj Srečec\Chapter 3_5\bin\Debug\DBLayer.pdb
+C:\Users\foi.LABOS\Documents\Domagoj Srečec\Chapter 3_5\obj\Debug\Evaluation Manager.csproj.AssemblyReference.cache
+C:\Users\foi.LABOS\Documents\Domagoj Srečec\Chapter 3_5\obj\Debug\Evaluation Manager.csproj.SuggestedBindingRedirects.cache
+C:\Users\foi.LABOS\Documents\Domagoj Srečec\Chapter 3_5\obj\Debug\Evaluation_Manager.FrmEvaluation.resources
+C:\Users\foi.LABOS\Documents\Domagoj Srečec\Chapter 3_5\obj\Debug\Evaluation_Manager.FrmFinalReport.resources
+C:\Users\foi.LABOS\Documents\Domagoj Srečec\Chapter 3_5\obj\Debug\Evaluation_Manager.FrmLogin.resources
+C:\Users\foi.LABOS\Documents\Domagoj Srečec\Chapter 3_5\obj\Debug\Evaluation_Manager.FrmStudents.resources
+C:\Users\foi.LABOS\Documents\Domagoj Srečec\Chapter 3_5\obj\Debug\Evaluation_Manager.Properties.Resources.resources
+C:\Users\foi.LABOS\Documents\Domagoj Srečec\Chapter 3_5\obj\Debug\Evaluation Manager.csproj.GenerateResource.cache
+C:\Users\foi.LABOS\Documents\Domagoj Srečec\Chapter 3_5\obj\Debug\Evaluation Manager.csproj.CoreCompileInputs.cache
+C:\Users\foi.LABOS\Documents\Domagoj Srečec\Chapter 3_5\obj\Debug\Evaluation Manager.csproj.CopyComplete
+C:\Users\foi.LABOS\Documents\Domagoj Srečec\Chapter 3_5\obj\Debug\Evaluation Manager.exe
+C:\Users\foi.LABOS\Documents\Domagoj Srečec\Chapter 3_5\obj\Debug\Evaluation Manager.pdb
